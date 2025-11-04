@@ -1,5 +1,5 @@
 body{
-    height: 500px;
+    height: 400px;
     width: 550px;
     background-image:url("Images/paper.png");
     background-size: cover;
@@ -10,5 +10,15 @@ body{
     position: absolute;
     left: -10px;
     top: 210px;
+    z-index: 2;
 }
 
+.mini{
+    z-index: 5;
+    left: 150px;
+    position: absolute;
+    top: 200px;
+    rotate: 12deg;
+    height: 400px;
+    width: 400px;
+}
