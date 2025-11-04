@@ -32,3 +32,25 @@ body{
     left: 120px;
     rotate: 35deg;
 }
+
+.k{
+    position: absolute;
+    left: 500px;
+    
+}
+.o{
+    position: absolute;
+    left: 700px;
+    rotate: 351deg;
+}
+
+.m{
+    position: absolute;
+    left: 890px;
+
+}
+
+.i{
+    position: absolute;
+    left: 1050px;
+}
