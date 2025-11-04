@@ -1,5 +1,15 @@
 body{
-    height: 1000px;
+    height: 5000px;
     width: 500;
     background-color: rgb(38, 80, 178);
+}
+
+.circle1{
+    background-color: white;
+    height:500px;
+    width:500px;
+    border-radius: 50%;    
+    position: absolute;
+    left: 500px;
+    top: 150px;
 }
