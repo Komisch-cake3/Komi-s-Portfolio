@@ -1,5 +1,14 @@
 body{
-    height: 5000px;
-    width: 500;
-    background-color: rgb(38, 80, 178);
+    height: 500px;
+    width: 550px;
+    background-image:url("Images/paper.png");
+    background-size: cover;
 }
+
+
+.border{
+    position: absolute;
+    left: -10px;
+    top: 210px;
+}
+
