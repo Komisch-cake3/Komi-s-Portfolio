@@ -2,6 +2,7 @@
     font-family:"star" ;
     src: url(Fonts/Star\ Crush.ttf);
     font-weight: normal;
+    font-style: normal;
 }
 
 body{
@@ -61,11 +62,68 @@ body{
     left: 1050px;
 }
 
-.options{
-    display: flex;
-    justify-content: center;
+.options1{
+position: absolute;
+top: 500px;
+left: 600px;
 }
 
-.options p{
-    font-family:
+.options1 p{
+    font-family:"star", sans-serif;
+    font-size: 2.5rem;
+    margin-inline: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right:1px solid;
+    animation: typing 2s steps(21) forwards, blink 1s 3s step-end infinite;
+    
+
+}
+
+@keyframes typing{
+    from{
+        width: 0;
+    }
+    to{
+        width: 100%;
+    }
+}
+
+@keyframes blink{
+    50%{
+        border-color: transparent;
+    }
+}
+
+.options2{
+position: absolute;
+top: 500px;
+left: 600px;
+}
+
+.options2 p{
+    font-family:"star", sans-serif;
+    font-size: 2.5rem;
+    margin-inline: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right:1px solid;
+    animation: typing 2s steps(21) forwards, blink 1s 3s step-end infinite;
+    
+
+}
+
+@keyframes typing{
+    from{
+        width: 0;
+    }
+    to{
+        width: 100%;
+    }
+}
+
+@keyframes blink{
+    50%{
+        border-color: transparent;
+    }
 }
