@@ -1,3 +1,9 @@
+@font-face {
+    font-family:"star" ;
+    src: url(Fonts/Star\ Crush.ttf);
+    font-weight: normal;
+}
+
 body{
     height: 400px;
     width: 550px;
@@ -53,4 +59,13 @@ body{
 .i{
     position: absolute;
     left: 1050px;
+}
+
+.options{
+    display: flex;
+    justify-content: center;
+}
+
+.options p{
+    font-family:
 }
