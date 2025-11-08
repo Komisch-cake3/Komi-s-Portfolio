@@ -64,7 +64,7 @@ body{
 
 .options1{
 position: absolute;
-top: 500px;
+top: 465px;
 left: 600px;
 }
 
@@ -97,8 +97,8 @@ left: 600px;
 
 .options2{
 position: absolute;
-top: 500px;
-left: 600px;
+top: 465px;
+left: 1000px;
 }
 
 .options2 p{
