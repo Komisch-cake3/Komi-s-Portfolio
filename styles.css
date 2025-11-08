@@ -76,7 +76,6 @@ left: 600px;
     white-space: nowrap;
     border-right:1px solid;
     animation: typing 2s steps(21) forwards, blink 1s 3s step-end infinite;
-
 }
 
 .s{
@@ -119,7 +118,7 @@ left: 1000px;
     white-space: nowrap;
     border-right:1px solid;
     animation: typing 2s steps(21) forwards, blink 1s 3s step-end infinite;
-    
+    animation-delay: 2.2s;
 
 }
 
