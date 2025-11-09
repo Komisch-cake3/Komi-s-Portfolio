@@ -59,7 +59,7 @@ body{
     border-right:1px solid;
     opacity:0;
     animation: typing 2s steps(21) forwards, blink 1s 3s step-end infinite;
-     animation-delay: 2.2s;
+    animation-delay: 2.2s;
     animation-fill-mode: forwards;
 }
 
@@ -73,3 +73,27 @@ body{
         opacity: 1;
     }
 }
+
+.boom{
+    position:absolute;
+    left: 330px;
+    top: 100px;
+}
+
+.boom1{
+    height:500px;
+    width:800px;
+    opacity: 0;
+    animation: Boom 1s forwards;
+    animation-delay: 4.4s;
+}
+
+@keyframes Boom{
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
