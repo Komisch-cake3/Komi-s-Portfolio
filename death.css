@@ -85,7 +85,7 @@ body{
     width:800px;
     opacity: 0;
     animation: Boom 1s forwards;
-    animation-delay: 4.4s;
+    animation-delay: 4.7s;
 }
 
 @keyframes Boom{
