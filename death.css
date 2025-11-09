@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(30, 45, 20);
+    height:100px;
+    width: 100px;
+}
+
+.yourmom{
+    position:absolute;
+    left: 600px;
+    top: 350px;
+
+}
