@@ -1,5 +1,50 @@
 body{
-    height:500px;
-    width:500px;
-    background-color: rgb(30, 45, 20);
+    height: 400px;
+    width: 550px;
+    background-image:url("Images/paper.png");
+    background-size: cover;
 }
+
+nav{
+    background-color: rgb(19, 35, 8);
+    height: 45px;
+    width: 700px;
+    border-radius: 30px;
+    position:absolute;
+    left: 400px;
+    top: 40px;
+    opacity: 50%;
+}
+
+.home{
+    text-decoration: none;
+    color: rgb(211, 255, 174);
+    position: absolute;
+    left: 40px;
+    top: 16px;
+}
+
+.art{
+    text-decoration: none;
+    color: rgb(211, 255, 174);
+    position: absolute;
+    left: 190px;
+    top: 16px;
+}
+
+.coding{
+    text-decoration: none;
+    color: rgb(211, 255, 174);
+    position: absolute;
+    left: 350px;
+    top: 16px;
+}
+
+.socials{
+    text-decoration: none;
+    color: rgb(211, 255, 174);
+    position: absolute;
+    left: 580px;
+    top: 16px;
+}
+
