@@ -48,3 +48,9 @@ nav{
     top: 16px;
 }
 
+.border{
+    position: absolute;
+    left: -10px;
+    top: 500px;
+    z-index: 2;
+}
