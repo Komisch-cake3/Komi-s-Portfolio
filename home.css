@@ -1,3 +1,10 @@
+  @font-face {
+    font-family: "messy";
+    src: url(Fonts/DavysCrappyWrit.ttf);
+    font-weight: normal;
+    font-style: normal;
+  }  
+    
 body{
     height: 400px;
     width: 550px;
@@ -6,7 +13,7 @@ body{
 }
 
 nav{
-    background-color: rgb(19, 35, 8);
+    background-color: rgb(135, 169, 85);
     height: 45px;
     width: 700px;
     border-radius: 30px;
