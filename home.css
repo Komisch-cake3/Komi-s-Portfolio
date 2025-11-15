@@ -1,6 +1,6 @@
   @font-face {
     font-family: "messy" ;
-    src: url(Fonts/DavysCrappyWrit.ttf);
+    src: url(Fonts/SimpleHandmade.ttf);
     font-weight: normal;
     font-style: normal;
   }  
@@ -64,5 +64,11 @@ nav{
 
 .bodyoftext{
     font-family: "messy", sans-serif;
-    font-size: 50px;
+    font-size: 35px;
+    white-space: 70px;
+    text-align: left;
+    position: absolute;
+    width: 500px;
+    left: 500px;
+    top: 200px;
 }
